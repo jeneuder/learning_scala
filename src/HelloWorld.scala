@@ -2,6 +2,6 @@
 
 object HelloWorld {
   def main(args: Array[String]): Unit = {
-    println("Hello, world, again and again!")
+    println("Hello, world, again and again and again!")
   }
 }
